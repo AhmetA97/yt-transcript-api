@@ -1,0 +1,10 @@
+{
+  "name": "yt-transcript-api",
+  "version": "1.0.0",
+  "description": "Simple YouTube transcript API for n8n",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "youtube-transcript": "^1.2.1"
+  }
+}
